@@ -5,17 +5,17 @@
 
 ## 💻 Programming Languages
 
-    PHP, HTML, JAVASCRIPT, CSS
+   PHP, HTML, JAVASCRIPT, CSS
 
-    Using Bootstrap 5
-    Using Fontawesome 5.15.3
+   Using Bootstrap 5
+   Using Fontawesome 5.15.3
 
 # How to use:
 
-    1) Download the source code
-    2) Install the .php files inside your web server directory (you can use XAMPP or MAMP to emulate an Apache service)
-    3) Create an SQL database (you can set up the db informations inside the php pages)
-    4) Launch this query inside your database table:
+   1) Download the source code
+   2) Install the .php files inside your web server directory (you can use XAMPP or MAMP to emulate an Apache service)
+   3) Create an SQL database (you can set up the db informations inside the php pages)
+   4) Launch this query inside your database table:
 
 ```sql
 -- --------------------------------------------------------
